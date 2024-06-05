@@ -1,0 +1,4 @@
+5649887,Les Miserables,Victor Hugo,1862,1,Disponible
+8754621,1984,George Orwell,1949,6,Disponible
+3948572,Pride and Prejudice,Jane Austen,1813,10,Disponible
+9823415,To Kill a Mockingbird,Harper Lee,1960,40,Disponible
